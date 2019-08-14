@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">DataBinding Example</string>
+    
+    
+    <string-array name="names">
+        <item>MS Dhoni</item>
+        <item>Virat Kholi</item>
+        <item>Rohit Sharma</item>
+        <item>Jasprit Bumrah</item>
+        <item>Jadeja</item>
+        <item>KL Rahul</item>
+        <item>Pant</item>
+        <item>Pandya</item>
+        <item>Chahal</item>
+
+    </string-array>
+
+
+    <string-array name="email_id">
+        <item>msdhoni@cric.in</item>
+        <item>vkholi@cric.in</item>
+        <item>rohit@cric.in</item>
+        <item>jpbumrah@cric.in</item>
+        <item>jadeja@cric.in</item>
+        <item>klRahul@cric.in</item>
+        <item>pant@cric.in</item>
+        <item>pandya@cric.in</item>
+        <item>chahal@cric.in</item>
+
+
+    </string-array>
+</resources>
